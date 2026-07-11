@@ -1,0 +1,8 @@
+Package: com.sigmabotg.monicapro
+Name: MonicaPro
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Monica Trial Forever + Pro Unlock
+Author: sigmabotg
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
